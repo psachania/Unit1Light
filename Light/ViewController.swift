@@ -10,6 +10,8 @@ import UIKit
 
 class ViewController: UIViewController {
 
+    //This line added and should be removed
+    
     let possibleMoves = [[-1, -1,  2,  5],
                          [-1,  1,  3,  6],
                          [-1,  2,  4,  7],
